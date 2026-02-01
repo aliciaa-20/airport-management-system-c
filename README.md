@@ -17,10 +17,6 @@ A console-based airline passenger management system built using C programming an
 - File handling
 - Menu-driven system design
 
-## How to Run
-gcc main.c -o airport
-./airport
-
 ## Learning Outcomes
 - Struct-based data modeling
 - Modular function design
